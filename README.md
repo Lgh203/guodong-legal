@@ -2,7 +2,7 @@
 
 杭州赋序信息技术有限公司《果冻狂欢消消乐》的隐私政策与用户协议。
 
-- 应用包名：`com.hzfx.game.guodong`
+- 应用包名：`com.hzfx.game.guodong.honor`
 - 应用版本：`100`
 - 隐私政策：https://lgh203.github.io/guodong-legal/privacy.html
 - 用户协议：https://lgh203.github.io/guodong-legal/agreement.html
